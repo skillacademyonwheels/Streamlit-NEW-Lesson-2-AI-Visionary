@@ -11,4 +11,3 @@ GROQ_VISION_MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 
 # You can change this model later if needed
 HF_IMAGE_MODEL = "stabilityai/stable-diffusion-xl-base-1.0"
-HF_IMAGE_API_URL = f"https://api-inference.huggingface.co/models/{HF_IMAGE_MODEL}"
